@@ -1,7 +1,7 @@
 void startStop() {
   if (keyPressed) {
     if (key == ' ') {
-      start = true;
+      startKeyboard = true;
     }
   }
 
