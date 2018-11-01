@@ -10,7 +10,7 @@ void setup() {
 
 
   //Need drawing of ball before mouseClick(), two lines of the same code
-  createStars();
+  createStars(); 
 
   println ("Remember to press the SPACEBAR to start the program");
 { //End of setup()
